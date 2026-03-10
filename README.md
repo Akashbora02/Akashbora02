@@ -1,10 +1,62 @@
-# 💫 About Me:
-I'm passionate about DevOps culture, automation, and building reliable, scalable infrastructure. My goal is to continue growing as a DevOps professional, leveraging both my development expertise and operations knowledge to create seamless deployment experiences and highly available systems.<br>Open to opportunities where I can contribute to cloud-native architectures, container orchestration, and infrastructure automation while working with cutting-edge DevOps technologies.
+<h1 align="center">👋 Hello Dosto</h1>
+<h3 align="center">☁️ Cloud & DevOps Engineer | Automation | CI/CD | Infrastructure</h3>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bora/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashbora0082@gmail.com) 
+# 🚀 About Me
 
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I’m a **DevOps Engineer with around 2 years of hands-on experience** in building and managing **cloud-native applications, CI/CD pipelines, and containerized environments**. I enjoy automating infrastructure, improving deployment workflows, and ensuring systems are **scalable, reliable, and highly available**.
+
+My experience includes working with **Linux, cloud platforms, containers, and infrastructure automation tools** to streamline development and operations. I’m passionate about learning new technologies and continuously improving DevOps practices.
+
+- ☁️ Experienced with **AWS cloud services and cloud-native deployments**
+- 🐳 Skilled in **Docker containerization and Kubernetes orchestration**
+- ⚙️ Building and maintaining **CI/CD pipelines using Jenkins and Git-based tools**
+- 🏗️ Implementing **Infrastructure as Code with Terraform & automation with Ansible**
+- 📊 Working with **monitoring and logging tools like Prometheus, Grafana, and ELK**
+- 🌱 Currently expanding knowledge in **advanced Kubernetes, cloud architecture, and DevOps automation**
+- 🤝 Open to **collaborating on DevOps, cloud, and automation projects**
+
+---
+
+# 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-bora/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:akashbora0082@gmail.com)
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,javascript,html,css" />
+</p>
+
+---
+
+### Cloud & DevOps
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
+</p>
+
+---
+
+### Databases & Monitoring
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,prometheus,grafana,elasticsearch" />
+</p>
+---
+
+# 🚀 DevOps Interests
+
+✔ Cloud Infrastructure  
+✔ CI/CD Automation  
+✔ Kubernetes & Containers  
+✔ Infrastructure as Code  
+✔ Monitoring & Observability  
+✔ Cloud Native Applications  
+
+---
+
+⭐ From [Akash Bora](https://github.com/Akashbora02)
